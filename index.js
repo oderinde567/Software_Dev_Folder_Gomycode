@@ -1,8 +1,0 @@
-My Name is Femi
-I'm 24 years old
-And this is day 2 of my software dev class.
-It cool you know.
-
-
-
-
